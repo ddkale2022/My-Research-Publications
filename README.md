@@ -1,5 +1,5 @@
 
-### Selected Publications (as Lead Author)
+#### Selected Publications (as Lead Author)
 
 1. **D. Kale**, F. Kikul, P. Phapale, L. Beedgen, C. Thiel, B. Brügger. “Quantification of Dolichyl Phosphates Using Phosphate Methylation and Reverse-Phase Liquid Chromatography–High Resolution Mass Spectrometry.” *Analytical Chemistry*, 2023. [https://pubs.acs.org/doi/10.1021/acs.analchem.2c03623](https://pubs.acs.org/doi/10.1021/acs.analchem.2c03623)
 
@@ -7,7 +7,7 @@
 
 3. **D. Kale**, A. Fatangare, P. Phapale, A. Sickmann. “Blood-derived Lipid and Metabolite Biomarkers in Cardiovascular Research from Clinical Studies: A Recent Update.” *Cells*, 2023. [https://www.mdpi.com/2073-4409/12/24/2796](https://www.mdpi.com/2073-4409/12/24/2796)
 
-### Other Publications (as Co-author)
+#### Other Publications (as Co-author)
 
 4. M. Balkenhol, Ö. Osmanoglu, S. Loroch, J. Katzer, **D. Kale**, K. Berkovits, K. Marcus, A. Friebe, A. Sickmann, T. Dandekar, M. Chatterjee. “Platelet Phosphoproteomic Profile Behind Anti-thrombotic Effects of Atypical Chemokine Receptor ACKR3J.” *Hämostaseologie*, 2025. [https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0044-1801693](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0044-1801693)
 
